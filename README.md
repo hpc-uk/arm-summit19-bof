@@ -5,7 +5,7 @@ Arm Research Summit 2019
 
 ## Agenda
 
-* 0-25min: Scene-setting presentations
+* 0-25min: Introductory presentations by Session leaders
 * 25-35min: Discussion topic selection and break into discussion groups
 * 35-75min: Discussions (with 5 min break at halfway point)
 * 75-90min: Feedback from discussion groups to all attendees
@@ -20,14 +20,12 @@ Arm Research Summit 2019
 
 ## Session leaders
 
-* Andrew	Turner,	a.turner@epcc.ed.ac.uk, EPCC The University of Edinburgh
-* Michele	Weiland,	m.weiland@epcc.ed.ac.uk,	EPCC, The University of Edinburgh
-* Simon	McIntosh-Smith,	S.McIntosh-Smith@bristol.ac.uk,	University of Bristol
-* Simon	Burbidge,	simon.burbidge@bristol.ac.uk,	University of Bristol
-* Jon	Wakelin,	jw292@LEICESTER.AC.UK,	University of Leicester
-* Darren	Cepulis,	darren.cepulis@arm.com,	Arm
-* Rich	Graham,	richardg@mellanox.com,	Mellanox
-* Larry	Wikelius,	Larry.Wikelius@cavium.com,	Marvell Semiconductor
+* Michele	Weiland, EPCC, The University of Edinburgh
+* Simon	McIntosh-Smith,	University of Bristol
+* Simon	Burbidge,	University of Bristol
+* Thomas Kappas, University of Leicester
+* Darren	Cepulis, Arm
+* Jay Kruemke, SUSE
 
 ## Code of conduct
 
